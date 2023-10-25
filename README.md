@@ -16,6 +16,8 @@ Work with a partner to implement the following user story:
 
 ![image](https://github.com/Mwrightvet/student-bio/assets/50971489/7618d9b3-76f2-4c62-967f-b915bcba86dc)
 
+![image](https://github.com/Mwrightvet/student-bio/assets/50971489/a5816da7-3296-4890-8b2b-8072af760435)
+
 
 ## Assets
 
