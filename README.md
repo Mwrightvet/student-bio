@@ -14,6 +14,8 @@ Work with a partner to implement the following user story:
 
 * It's done when the finished page matches the mockup. 
 
+![image](https://github.com/Mwrightvet/student-bio/assets/50971489/bc7d85bf-903f-4ba1-8fe7-a2d2947196a5)
+
 ## Assets
 
 The following image demonstrates the web application's appearance and functionality:
