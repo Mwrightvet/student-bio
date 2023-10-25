@@ -14,7 +14,8 @@ Work with a partner to implement the following user story:
 
 * It's done when the finished page matches the mockup. 
 
-![image](https://github.com/Mwrightvet/student-bio/assets/50971489/bc7d85bf-903f-4ba1-8fe7-a2d2947196a5)
+![image](https://github.com/Mwrightvet/student-bio/assets/50971489/7618d9b3-76f2-4c62-967f-b915bcba86dc)
+
 
 ## Assets
 
